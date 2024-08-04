@@ -1,1 +1,1 @@
-![anh1](https://imgur.com/a/P9KVEdT)
+![anh1](web/frontend/assets/screenshot_1722768267.png)
